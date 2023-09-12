@@ -1,6 +1,6 @@
 # Student_Enrollment_System
 
-#A simple Java-based Student Enrollment System designed to manage student records, enroll students in courses, and generate enrollment reports.
+A simple Java-based Student Enrollment System designed to manage student records, enroll students in courses, and generate enrollment reports.
 
 Table of Contents
 Features
