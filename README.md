@@ -3,6 +3,7 @@
 A simple Java-based Student Enrollment System designed to manage student records, enroll students in courses, and generate enrollment reports.
 
 Table of Contents
+
 Features
 Prerequisites
 Getting Started
@@ -11,15 +12,22 @@ Usage
 Contributing
 License
 Features
+
 Add and manage student records with details like name, ID, and contact information.
 Enroll students in courses and track their enrollment status.
 Generate reports on student enrollments for specific courses or time periods.
 Easy-to-use command-line interface.
+
+
+
 Prerequisites
+
 Before you begin, ensure you have met the following requirements:
 
 Java Development Kit (JDK) 11 or higher installed.
 Git for version control (optional).
+
+
 Getting Started
 To get started with the Student Enrollment System, follow these steps:
 
@@ -28,9 +36,9 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/student-enrollment-system.git
-Compile the Java source files:
+git clone https://github.com/kudos07/student-enrollment-system.git
 
+Compile the Java source files:
 bash
 Copy code
 javac Main.java
